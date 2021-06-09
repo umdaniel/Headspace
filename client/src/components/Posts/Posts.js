@@ -13,7 +13,7 @@ const Posts = () => {
     return(
         !posts.length ? <CircularProgress /> : (
             <Grid>
-
+                <CircularProgress />
             </Grid>
         )
     );
