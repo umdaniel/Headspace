@@ -6,4 +6,4 @@ I created this website with the purpose to emulate an application like Instagram
 
 Some Functions:
 
-The user can create memories with an accompanying image, text, and date. These images will be displayed in a grid format for the user to view at anytime!
+The user can create memories with an accompanying image, text, and date. These images will be displayed in a grid format for the user to view at anytime.
