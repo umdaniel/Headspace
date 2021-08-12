@@ -1,4 +1,4 @@
-HeadSpace:
+HeadSpace: (Front-End and Back-End Principles)
 
 A website used to store a collection of memories and experiences from my life! 
 
